@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<base href="https://www.joomlacontenteditor.net/downloads/editor/joomla-3"/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="robots" content="index, follow"/>
+<meta name="keywords" content="joomla, Joomla, JCE, jce, wysiwyg, tinymce, joomla content editor, editor, html, image manager, link, media manager, file manager"/>
+<meta name="description" content="JCE - A Content Editor for Joomla!®"/>
+<meta name="generator" content="Joomla! 1.5 - Open Source Content Management"/>
+<title>Joomla! 3</title>
+<link href="/downloads/editor/joomla-3/feed/rss/downloads/joomla-3x?format=feed" rel="alternate" type="application/rss+xml" title="RSS 2.0"/>
+<link href="/downloads/editor/joomla-3/feed/atom/downloads/joomla-3x?format=feed" rel="alternate" type="application/atom+xml" title="Atom 1.0"/>
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link rel="stylesheet" href="/plugins/subscriptions/zoo/css/zoo.css" type="text/css"/>
+<link rel="stylesheet" href="/media/zoo/assets/css/reset.css?ver=20121001" type="text/css"/>
+<link rel="stylesheet" href="/media/zoo/applications/download/templates/default/assets/css/zoo.css?ver=20121001" type="text/css"/>
+<link rel="stylesheet" href="/media/zoo/elements/download/assets/css/download.css?ver=20121001" type="text/css"/>
+<link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?3ab6d4490e67378d035cce4c84ffa080" type="text/css"/>
+<link rel="stylesheet" href="/plugins/system/jcemediabox/themes/standard/css/style.css?7361405241320e69bc1bfb093eb0a2f7" type="text/css"/>
+<script type="text/javascript" src="/media/zoo/libraries/jquery/jquery.js?ver=20121001"></script>
+<script type="text/javascript" src="/media/zoo/assets/js/responsive.js?ver=20121001"></script>
+<script type="text/javascript" src="/components/com_zoo/assets/js/default.js?ver=20121001"></script>
+<script type="text/javascript" src="/plugins/system/jcemediabox/js/jcemediabox.js?2ee2100a9127451a41de5a4c2c62e127"></script>
+<script type="text/javascript">
+JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:1,mediaselector:"audio,video"});
+  </script>
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/jce/uikit/css/uikit.min.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/jce/css/template.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/jce/css/system.css" type="text/css"/>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/templates/jce/uikit/js/uikit.min.js"></script>
+ 
+<script type="text/javascript">
+		    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Ok!","learnMore":"More info","link":"https://www.joomlacontenteditor.net/about/legal/privacy","theme":"dark-bottom"};
+		</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+ 
+</head>
+<body>
+<div class="uk-container uk-container-center">
+<div class="wf-container">
+<div class="wf-toolbar uk-visible-large">
+<div class="uk-container uk-container-center uk-clearfix">
+<div class="uk-float-right">
+<a href="https://twitter.com/jceeditor" target="_blank" title="Follow JCE on Twitter" class="uk-margin-right uk-icon-hover uk-icon-twitter uk-icon-medium"></a>
+<a href="https://github.com/widgetfactory/jce" target="_blank" title="JCE on Github" class="uk-margin-right uk-icon-hover uk-icon-github uk-icon-medium"></a>
+</div>
+</div>
+</div>
+<div class="wf-navbar">
+<nav class="uk-navbar">
+<div class="uk-navbar-flip uk-visible-large">
+<div class="uk-navbar-content">
+<form action="index.php" method="post" class="uk-form">
+<div class="uk-search search">
+<input name="searchword" id="mod_search_searchword" alt="Search" class="inputbox" type="text" size="20" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"/> </div>
+<input type="hidden" name="task" value="search"/>
+<input type="hidden" name="option" value="com_search"/>
+<input type="hidden" name="Itemid" value=0 />
+</form>
+</div>
+</div>
+<div class="uk-hidden-small">
+<ul class="menu uk-navbar-nav"><li class="item1"><a href="https://www.joomlacontenteditor.net/"><span>Home</span></a></li><li class="item121"><a href="/news"><span>News</span></a></li><li class="parent item6"><a href="/downloads"><span>Downloads</span></a></li><li class="item94"><a href="/subscribe"><span>Purchase</span></a></li><li class="item90"><a href="/support"><span>Support</span></a></li><li class="item95"><a href="/contact"><span>Contact</span></a></li><li class="item124"><a href="http://demo.joomlacontenteditor.net/"><span>Demo</span></a></li><li class="item310"><a href="/your-account"><span>Your Account</span></a></li></ul>
+</div>
+<a href="#offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
+</nav>
+</div>
+<div id="wf-header" class="wf-header uk-block uk-block-primary">
+<div class="uk-container">
+<img src="/images/logo.png" alt="JCE Logo"/>
+</div>
+</div>
+<div id="pathway" class="uk-container">
+<ul class="uk-breadcrumb uk-margin-top uk-margin-bottom">
+<li><a href="/downloads">Downloads</a></li><li><a href="/downloads/editor">Editor</a></li><li class="uk-active">Joomla! 3</li></ul>
+</div>
+<div id="wf-main" class="wf-main uk-block">
+<div class="uk-container">
+<div class="uk-grid uk-grid-match">
+<main class="uk-width-1-1 uk-margin-bottom">
+<div id="yoo-zoo" class="yoo-zoo download-default download-default-joomla-3x">
+<div class="alpha-index">
+<span title="a">a</span><span title="b">b</span><span title="c">c</span><a href="/downloads/editor/joomla-3/alphaindex/downloads/d" title="d">d</a><a href="/downloads/editor/joomla-3/alphaindex/downloads/e" title="e">e</a><span title="f">f</span><span title="g">g</span><span title="h">h</span><span title="i">i</span><a href="/downloads/editor/joomla-3/alphaindex/downloads/j" title="j">j</a><span title="k">k</span><span title="l">l</span><span title="m">m</span><span title="n">n</span><span title="o">o</span><a href="/downloads/editor/joomla-3/alphaindex/downloads/p" title="p">p</a><span title="q">q</span><span title="r">r</span><span title="s">s</span><span title="t">t</span><span title="u">u</span><span title="v">v</span><span title="w">w</span><span title="x">x</span><span title="y">y</span><span title="z">z</span><span title="#">#</span></div>
+<div class="details alignment-left">
+<h1 class="title">
+Joomla! 3.x Archive
+</h1>
+<div class="description">
+<h1 class="uk-text-bold"><i class="uk-icon-joomla"></i>&nbsp;3.x</h1> </div>
+</div>
+<div class="items">
+<h1 class="title">
+Joomla! 3.x Files </h1>
+<div class="row first-row"><div class="width100 first-cell">
+<div class="teaser-item">
+<div class="pos-media media-left">
+<a class="yoo-zoo element-download-type element-download-type-zip" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1193&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=044ede354e59f72794e432f04c228f3d" title="Download com_jce_2531.zip"></a> </div>
+<h2 class="pos-title"> <a title="JCE 2.5.31" href="/downloads/editor/joomla-3/item/jce-2531">JCE 2.5.31</a> </h2>
+<p class="pos-meta">
+Updated on 25 October 2016 </p>
+<ul class="pos-specification">
+<li class="element element-text first">
+Single installation package for Joomla! 1.5, 2.5 & 3.x</li>
+<li class="element element-text last">
+<strong>Version: </strong>2.5.31</li></ul>
+<div class="pos-button">
+<a class="yoo-zoo element-download-button" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1193&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=044ede354e59f72794e432f04c228f3d" title="Download com_jce_2531.zip"><span><span>Download</span></span></a> </div>
+</div></div></div><div class="row"><div class="width100 first-cell">
+<div class="teaser-item">
+<div class="pos-media media-left">
+<a class="yoo-zoo element-download-type element-download-type-zip" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1191&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=fe13ddb5a74369fc4abe15599228d5b1" title="Download com_jce_2530.zip"></a> </div>
+<h2 class="pos-title"> <a title="JCE 2.5.30" href="/downloads/editor/joomla-3/item/jce-2530">JCE 2.5.30</a> </h2>
+<p class="pos-meta">
+Updated on 17 October 2016 </p>
+<ul class="pos-specification">
+<li class="element element-text first">
+Single installation package for Joomla! 1.5, 2.5 & 3.x</li>
+<li class="element element-text last">
+<strong>Version: </strong>2.5.30</li></ul>
+<div class="pos-button">
+<a class="yoo-zoo element-download-button" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1191&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=fe13ddb5a74369fc4abe15599228d5b1" title="Download com_jce_2530.zip"><span><span>Download</span></span></a> </div>
+</div></div></div><div class="row"><div class="width100 first-cell">
+<div class="teaser-item">
+<div class="pos-media media-left">
+<a class="yoo-zoo element-download-type element-download-type-zip" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1189&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=69bc6737adadf34369e80507faed9c50" title="Download com_jce_2529.zip"></a> </div>
+<h2 class="pos-title"> <a title="JCE 2.5.29" href="/downloads/editor/joomla-3/item/jce-2529">JCE 2.5.29</a> </h2>
+<p class="pos-meta">
+Updated on 14 October 2016 </p>
+<ul class="pos-specification">
+<li class="element element-text first">
+Single installation package for Joomla! 1.5, 2.5 & 3.x</li>
+<li class="element element-text last">
+<strong>Version: </strong>2.5.29</li></ul>
+<div class="pos-button">
+<a class="yoo-zoo element-download-button" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1189&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=69bc6737adadf34369e80507faed9c50" title="Download com_jce_2529.zip"><span><span>Download</span></span></a> </div>
+</div></div></div><div class="row"><div class="width100 first-cell">
+<div class="teaser-item">
+<div class="pos-media media-left">
+<a class="yoo-zoo element-download-type element-download-type-zip" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1184&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=31bd4c7fecf1c0a3345317292a7c8720" title="Download com_jce_2528.zip"></a> </div>
+<h2 class="pos-title"> <a title="JCE 2.5.28" href="/downloads/editor/joomla-3/item/jce-2528">JCE 2.5.28</a> </h2>
+<p class="pos-meta">
+Updated on 07 October 2016 </p>
+<ul class="pos-specification">
+<li class="element element-text first">
+Single installation package for Joomla! 1.5, 2.5 & 3.x</li>
+<li class="element element-text last">
+<strong>Version: </strong>2.5.28</li></ul>
+<div class="pos-button">
+<a class="yoo-zoo element-download-button" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1184&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=31bd4c7fecf1c0a3345317292a7c8720" title="Download com_jce_2528.zip"><span><span>Download</span></span></a> </div>
+</div></div></div><div class="row"><div class="width100 first-cell">
+<div class="teaser-item">
+<div class="pos-media media-left">
+<a class="yoo-zoo element-download-type element-download-type-zip" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1180&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=a2cd928fd5ca29cfd536f7a514c51f9b" title="Download com_jce_2527.zip"></a> </div>
+<h2 class="pos-title"> <a title="JCE 2.5.27" href="/downloads/editor/joomla-3/item/jce-2527">JCE 2.5.27</a> </h2>
+<p class="pos-meta">
+Updated on 22 September 2016 </p>
+<ul class="pos-specification">
+<li class="element element-text first">
+Single installation package for Joomla! 1.5, 2.5 & 3.x</li>
+<li class="element element-text last">
+<strong>Version: </strong>2.5.27</li></ul>
+<div class="pos-button">
+<a class="yoo-zoo element-download-button" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1180&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=a2cd928fd5ca29cfd536f7a514c51f9b" title="Download com_jce_2527.zip"><span><span>Download</span></span></a> </div>
+</div></div></div><div class="row"><div class="width100 first-cell">
+<div class="teaser-item">
+<div class="pos-media media-left">
+<a class="yoo-zoo element-download-type element-download-type-zip" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1178&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=d13f7c1b4d10958026fb07fe2df8ffe7" title="Download com_jce_2526.zip"></a> </div>
+<h2 class="pos-title"> <a title="JCE 2.5.26" href="/downloads/editor/joomla-3/item/jce-2526">JCE 2.5.26</a> </h2>
+<p class="pos-meta">
+Updated on 15 September 2016 </p>
+<ul class="pos-specification">
+<li class="element element-text first">
+Single installation package for Joomla! 1.5, 2.5 & 3.x</li>
+<li class="element element-text last">
+<strong>Version: </strong>2.5.26</li></ul>
+<div class="pos-button">
+<a class="yoo-zoo element-download-button" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1178&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=d13f7c1b4d10958026fb07fe2df8ffe7" title="Download com_jce_2526.zip"><span><span>Download</span></span></a> </div>
+</div></div></div><div class="row"><div class="width100 first-cell">
+<div class="teaser-item">
+<div class="pos-media media-left">
+<a class="yoo-zoo element-download-type element-download-type-zip" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1165&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=ef165feed0e4cd678b3d3d1d2119c2b9" title="Download pkg_jce_pro-260-rc5.zip"></a> </div>
+<h2 class="pos-title"> <a title="JCE Pro 2.6.0 RC" href="/downloads/editor/joomla-3/item/jce-pro-260-rc?category_id=68">JCE Pro 2.6.0 RC</a> </h2>
+<p class="pos-meta">
+Updated on 04 November 2016 </p>
+<ul class="pos-specification">
+<li class="element element-text first">
+Single installation package for Joomla! 2.5 & 3.x</li>
+<li class="element element-text last">
+<strong>Version: </strong>pro-2.6.0-rc5</li></ul>
+<div class="pos-button">
+<a class="yoo-zoo element-download-button" href="/downloads/editor/joomla-3?task=callelement&amp;format=raw&amp;item_id=1165&amp;element=f85c494b-2b32-4109-b8c1-083cca2b7db6&amp;method=download&amp;args[0]=ef165feed0e4cd678b3d3d1d2119c2b9" title="Download pkg_jce_pro-260-rc5.zip"><span><span>Download</span></span></a> </div>
+</div></div></div>
+</div>
+</div>
+</main>
+</div>
+</div>
+</div>
+<div id="wf-footer" class="wf-footer uk-block-secondary uk-contrast">
+<div class="uk-container">
+<ul class="menu uk-subnav uk-subnav-line uk-flex-center"><li class="item167"><a href="/about/legal/company"><span>Company</span></a></li><li class="item168"><a href="/about/legal/privacy"><span>Cookies &amp; Privacy Policy</span></a></li><li class="item169"><a href="/about/legal/terms-of-use"><span>Terms of Use</span></a></li><li class="item258"><a href="/about/legal/refund-policy"><span>Refund Policy</span></a></li></ul><div class="uk-text-small uk-text-center">Copyright © 2016 Widget Factory Limited. All rights reserved.</div>
+<div class="uk-text-small uk-text-center"><strong><a href="http://www.joomlacontenteditor.net" target="_blank">http://www.joomlacontenteditor.net</a></strong> is not affiliated with or endorsed by the Joomla! Project or Open Source Matters.&nbsp;The Joomla! name and logo is used under a limited license granted by Open Source Matters the trademark holder in the United States and other countries</div>
+</div>
+</div>
+</div>
+</div>
+<div id="offcanvas" class="uk-offcanvas">
+<div class="uk-offcanvas-bar">
+<ul class="menu uk-nav uk-nav-offcanvas"><li class="item1"><a href="https://www.joomlacontenteditor.net/"><span>Home</span></a></li><li class="item121"><a href="/news"><span>News</span></a></li><li class="parent item6"><a href="/downloads"><span>Downloads</span></a></li><li class="item94"><a href="/subscribe"><span>Purchase</span></a></li><li class="item90"><a href="/support"><span>Support</span></a></li><li class="item95"><a href="/contact"><span>Contact</span></a></li><li class="item124"><a href="http://demo.joomlacontenteditor.net/"><span>Demo</span></a></li><li class="item310"><a href="/your-account"><span>Your Account</span></a></li></ul>
+</div>
+</div>
+</body>
+</html>
